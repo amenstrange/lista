@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1,ESPN
+http://45.238.21.67:4000/play/a0dc
+#EXTINF:-1,ESPN 2
+http://45.238.21.67:4000/play/a0d0
+#EXTINF:-1,ESPN 2
+http://45.238.21.67:4000/play/a09a
+#EXTINF:-1,ESPN 2 HD
+http://45.238.21.67:4000/play/a0ap
+#EXTINF:-1,ESPN 2 HD
+http://45.238.21.67:4000/play/a0al
+#EXTINF:-1,ESPN 2 Latin
+http://45.238.21.67:4000/play/a0db
+#EXTINF:-1,ESPN 3
+http://45.238.21.67:4000/play/a0ea
+#EXTINF:-1,ESPN 3 HD
+http://45.238.21.67:4000/play/a05c
+#EXTINF:-1,ESPN 4
+http://45.238.21.67:4000/play/a0dv
+#EXTINF:-1,ESPN 4
+http://45.238.21.67:4000/play/a0da
+#EXTINF:-1,ESPN 4 HD
+http://45.238.21.67:4000/play/a06d
+#EXTINF:-1,ESPN EXTRA HD
+http://45.238.21.67:4000/play/a06v
+#EXTINF:-1,ESPN HD
+http://45.238.21.67:4000/play/a06k
+#EXTINF:-1,ESPN HD
+http://45.238.21.67:4000/play/a0at
+#EXTINF:-1,El Gourmet HD
+http://45.238.21.67:4000/play/a05m
+#EXTINF:-1,Enlace
+http://45.238.21.67:4000/play/a0cf
+#EXTINF:-1,Esne TV
+http://45.238.21.67:4000/play/a0e9
+#EXTINF:-1,FOX Sports 2 HD
+http://45.238.21.67:4000/play/a06e
+#EXTINF:-1,FX
+http://45.238.21.67:4000/play/a0e3
+#EXTINF:-1,Fox Sports 1
+http://45.238.21.67:4000/play/a0cs
+#EXTINF:-1,Fox Sports 1
+http://45.238.21.67:4000/play/a092
+#EXTINF:-1,Fox Sports 1 HD
+http://45.238.21.67:4000/play/a07n
+#EXTINF:-1,Fox Sports 2
+http://45.238.21.67:4000/play/a0dl
+#EXTINF:-1,Fox Sports 3
+http://45.238.21.67:4000/play/a0dm
 #EXTINF:-1,Caracol HD
 http://179.1.132.212:8000/play/a007
 #EXTINF:-1,Canal Caracol
