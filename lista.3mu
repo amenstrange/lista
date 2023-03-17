@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Caracol HD
+http://179.1.132.212:8000/play/a007
 #EXTINF:-1,Canal Caracol
 http://186.31.37.98:8000/play/a00a/index.m3u8
 #EXTINF:-1,AE Mundo
