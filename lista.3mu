@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,ESPN
+http://179.43.85.42:82/play/a05c/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://179.43.85.42:82/play/a060/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://179.43.85.42:82/play/a05w/index.m3u8
+#EXTINF:-1,ESPN 3
+http://179.43.85.42:82/play/a06n/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://179.43.85.42:82/play/a074/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://179.43.85.42:82/play/a07l/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://179.43.85.42:82/play/a080/index.m3u8
+#EXTINF:-1,ESPN HD
+http://179.43.85.42:82/play/a08h/index.m3u8
+#EXTINF:-1,ESPN HD
+http://179.43.85.42:82/play/a07q/index.m3u8
+#EXTINF:-1,ESPN HD
+http://179.43.85.42:82/play/a064/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://181.224.161.138:1010/play/a00r/index.m3u8
 #EXTINF:-1,ESPN 3 HD
