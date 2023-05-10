@@ -11,14 +11,6 @@ http://186.101.207.117:9955/play/a0bz/index.m3u8
 http://186.101.207.117:9955/play/a0cw/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 HD
 http://186.101.207.117:9955/play/a0c2/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.224.161.138:1010/play/a00r/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.224.161.138:1010/play/a014/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://181.224.161.138:1010/play/a05w/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.224.161.138:1010/play/a00w/index.m3u8
 #EXTINF:-1,Canal Caracol
 http://186.31.37.98:8000/play/a00a/index.m3u8
 #EXTINF:-1,AE Mundo
