@@ -21,8 +21,6 @@ http://181.78.24.187:8006/play/a06e/index.m3u8
 http://181.78.24.187:8006/play/a0b2/index.m3u8
 #EXTINF:-1,ESPN HD
 http://181.78.24.187:8006/play/a09w/index.m3u8
-#EXTINF:-1,El Gourmet HD
-http://181.78.24.187:8006/play/a06a/index.m3u8
 #EXTINF:-1,ESPN
 http://181.78.27.188:5350/play/a00u
 #EXTINF:-1,ESPN 2
@@ -295,6 +293,8 @@ http://190.83.119.67:8000/play/a03u/index.m3u8
 http://190.83.119.67:8000/play/a02c/index.m3u8
 #EXTINF:-1,EWTN
 http://190.83.119.67:8000/play/a01j/index.m3u8
+#EXTINF:-1,El Gourmet HD
+http://181.78.24.187:8006/play/a06a/index.m3u8
 #EXTINF:-1,El Gourmet
 http://190.83.119.67:8000/play/a02e/index.m3u8
 #EXTINF:-1,Europa HD
