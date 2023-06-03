@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,1011 Win Sports HD
+http://181.78.1.217:8146/play/a04a/index.m3u8
 #EXTINF:-1,Win
 http://181.78.4.10:45000/play/a034
 #EXTINF:-1,ESPN
