@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Win
+http://181.78.4.10:45000/play/a034
 #EXTINF:-1,ESPN
 http://181.189.243.198:8000/play/a053/index.m3u8
 #EXTINF:-1,ESPN +
