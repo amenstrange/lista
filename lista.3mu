@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,ESPN 2 HD
+http://181.78.24.187:8006/play/a006/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.78.24.187:8006/play/a067/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.78.24.187:8006/play/a06e/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://181.78.24.187:8006/play/a0b2/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.78.24.187:8006/play/a09w/index.m3u8
+#EXTINF:-1,El Gourmet HD
+http://181.78.24.187:8006/play/a06a/index.m3u8
 #EXTINF:-1,AE Mundoo
 http://186.190.224.39:8000/play/a010/index.m3u8
 #EXTINF:-1,AXN
