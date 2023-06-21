@@ -89,6 +89,18 @@ http://190.26.217.123:8000/play/a15d/index.m3u8
 http://190.26.217.123:8000/play/a0zj/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://190.26.217.123:8000/play/a0zk/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a0a5.png",H2
+http://181.78.107.39:4000/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08s.png",HBO Family HD
+http://181.78.107.39:4000/play/a08s/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08p.png",HBO HD
+http://181.78.107.39:4000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08r.png",HBO Plus HD
+http://181.78.107.39:4000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08t.png",HBO XTREME
+http://181.78.107.39:4000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08q.png",HBO2 HD
+http://181.78.107.39:4000/play/a08q/index.m3u8
 #EXTINF:-1,HBO HD
 http://190.26.217.123:8000/play/a15x/index.m3u8
 #EXTINF:-1,History 2 HD
@@ -111,6 +123,8 @@ http://190.26.217.123:8000/play/a13z/index.m3u8
 http://190.26.217.123:8000/play/a108/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://190.26.217.123:8000/play/a14l/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08y.png",Nat Geo HD
+http://181.78.107.39:4000/play/a08y/index.m3u8
 #EXTINF:-1,Nick Jr
 http://190.26.217.123:8000/play/a0ww/index.m3u8
 #EXTINF:-1,Nickelodeon
@@ -175,3 +189,17 @@ http://190.26.217.123:8000/play/a14u/index.m3u8
 http://190.26.217.123:8000/play/a10e/index.m3u8
 #EXTINF:-1,Zoom
 http://190.26.217.123:8000/play/a133/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a07w.png",Tooncast
+http://181.78.107.39:4000/play/a07w/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a096.png",UNIVERSAL CINEMA ESTE HD
+http://181.78.107.39:4000/play/a096/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a0au.png",UNIVERSAL COMEDY HD
+http://181.78.107.39:4000/play/a0au/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a0ar.png",UNIVERSAL PREMIERE O HD
+http://181.78.107.39:4000/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a0as.png",UNIVERSAL REALITY HD
+http://181.78.107.39:4000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a09l.png",Universal
+http://181.78.107.39:4000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a094.png",Univision HD
+http://181.78.107.39:4000/play/a094/index.m3u8
