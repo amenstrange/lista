@@ -15,6 +15,8 @@ http://190.26.217.123:8000/play/a10p/index.m3u8
 http://190.26.217.123:8000/play/a157/index.m3u8
 #EXTINF:-1,Canal Caracol
 http://190.26.217.123:8000/play/a12w/index.m3u8
+#EXTINF:-1,Caracol HD
+http://201.219.247.118:8000/play/a05f/index.m3u8
 #EXTINF:-1,Canal Estrellas
 http://190.26.217.123:8000/play/a0zi/index.m3u8
 #EXTINF:-1,Canal Institucional
