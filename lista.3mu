@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,El Gourmet
-http://201.219.247.118:8000/play/a00g/index.m3u8
-#EXTINF:-1,El Gourmet HD
-http://201.219.247.118:8000/play/a04g/index.m3u8
 #EXTINF:-1,AE Mundo
 http://190.26.217.123:8000/play/a0z4/index.m3u8
 #EXTINF:-1,AMC HD
@@ -58,7 +54,6 @@ http://190.26.217.123:8000/play/a13v/index.m3u8
 #EXTINF:-1,Discovery HD
 http://190.26.217.123:8000/play/a15c/index.m3u8
 #EXTINF:-1,Discovery Kids HD
-!26!
 #EXTINF:-1,Discovery Theater HD
 http://190.26.217.123:8000/play/a13w/index.m3u8
 #EXTINF:-1,Discovery Turbo
@@ -69,6 +64,10 @@ http://190.26.217.123:8000/play/a14m/index.m3u8
 http://190.26.217.123:8000/play/a0yt/index.m3u8
 #EXTINF:-1,E Entertainment
 http://190.26.217.123:8000/play/a0yx/index.m3u8
+#EXTINF:-1,El Gourmet
+http://201.219.247.118:8000/play/a00g/index.m3u8
+#EXTINF:-1,El Gourmet HD
+http://201.219.247.118:8000/play/a04g/index.m3u8
 #EXTINF:-1,ESPN
 http://201.219.247.118:8000/play/a07a/index.m3u8
 #EXTINF:-1,ESPN 2 HD
