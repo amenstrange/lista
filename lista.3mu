@@ -1,64 +1,32 @@
 #EXTM3U
-#EXTINF:-1,ESPN 2 HD
-http://200.58.170.69:58001/play/a05e/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://200.58.170.69:58001/play/a05a/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://200.58.170.69:58001/play/a05y/index.m3u8
-#EXTINF:-1,ESPN 2 Latin SD
-http://200.58.170.69:58001/play/a0dl/index.m3u8
-#EXTINF:-1,ESPN 2 SD
-http://200.58.170.69:58001/play/a0co/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://200.58.170.69:58001/play/a05w/index.m3u8
-#EXTINF:-1,ESPN 3 SD
-http://200.58.170.69:58001/play/a0gf/index.m3u8
-#EXTINF:-1,ESPN 4
-http://200.58.170.69:58001/play/a0ek/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://200.58.170.69:58001/play/a07d/index.m3u8
-#EXTINF:-1,ESPN 4 SD
-http://200.58.170.69:58001/play/a0dk/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://200.58.170.69:58001/play/a08y/index.m3u8
-#EXTINF:-1,ESPN HD
-http://200.58.170.69:58001/play/a05i/index.m3u8
-#EXTINF:-1,ESPN HD
-http://200.58.170.69:58001/play/a07j/index.m3u8
-#EXTINF:-1,ESPN HD
-http://200.58.170.69:58001/play/a0a0/index.m3u8
-#EXTINF:-1,ESPN SD
-http://200.58.170.69:58001/play/a0dm/index.m3u8
 #EXTINF:-1,ESPN
-http://200.60.83.197:8000/play/a05v
-#EXTINF:-1,ESPN
-http://200.60.83.197:8000/play/a00l
+http://190.83.119.67:8000/play/a035/index.m3u8
+#EXTINF:-1,ESPN +
+http://190.83.119.67:8000/play/a01l/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.83.119.67:8000/play/a036/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://200.60.83.197:8000/play/a02s
-#EXTINF:-1,ESPN 2 HD
-http://200.60.83.197:8000/play/a01k
-#EXTINF:-1,ESPN 2 HD
-http://200.60.83.197:8000/play/a01g
+http://190.83.119.67:8000/play/a03w/index.m3u8
 #EXTINF:-1,ESPN 3
-http://200.60.83.197:8000/play/a028
+http://190.83.119.67:8000/play/a02g/index.m3u8
 #EXTINF:-1,ESPN 3 HD
-http://200.60.83.197:8000/play/a02q
+http://190.83.119.67:8000/play/a03v/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.83.119.67:8000/play/a03u/index.m3u8
+#EXTINF:-1,ESPN PLUS HD
+http://190.83.119.67:8000/play/a050/index.m3u8
+#EXTINF:-1,ESPN
+http://200.123.15.177:1982/play/a00y/index.m3u8
+#EXTINF:-1,ESPN 2
+http://200.123.15.177:1982/play/a00n/index.m3u8
+#EXTINF:-1,ESPN 3
+http://200.123.15.177:1982/play/a01z/index.m3u8
 #EXTINF:-1,ESPN 4
-http://200.60.83.197:8000/play/a07u
-#EXTINF:-1,ESPN 4
-http://200.60.83.197:8000/play/a072
-#EXTINF:-1,ESPN 4 HD
-http://200.60.83.197:8000/play/a03a
+http://200.123.15.177:1982/play/a01j/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD
-http://200.60.83.197:8000/play/a04b
-#EXTINF:-1,ESPN HD
-http://200.60.83.197:8000/play/a03g
-#EXTINF:-1,ESPN HD
-http://200.60.83.197:8000/play/a01o
-#EXTINF:-1,ESPN2
-http://200.60.83.197:8000/play/a058
-#EXTINF:-1,ESPN2
-http://200.60.83.197:8000/play/a057
+http://200.123.15.177:1982/play/a02t/index.m3u8
+#EXTINF:-1,ESPN STAR PLUS
+http://200.123.15.177:1982/play/a03x/index.m3u8
 #EXTINF:-1,ESPN
 http://201.222.44.219:4226/play/a073/index.m3u8
 #EXTINF:-1,ESPN +
