@@ -1,12 +1,16 @@
 #EXTM3U
+#EXTINF:-1,ESPN HD
+http://45.5.151.160:8000/play/a01p/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.5.151.160:8000/play/a02v/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://45.5.151.160:8000/play/a05u/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://45.186.252.17:8000/play/a04l
 #EXTINF:-1,ESPN 3 HD
 http://45.186.252.17:8000/play/a022
 #EXTINF:-1,ESPN Extra HD
 http://45.186.252.17:8000/play/a03v
-#EXTINF:-1,ESPN HD
-http://45.186.252.17:8000/play/a04m
 #EXTINF:-1,ESPN Premium HD
 http://45.186.252.17:8000/play/a07t
 #EXTINF:-1,ESPN
