@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ESPN HD
-http://45.5.151.160:8000/play/a01p/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.5.151.160:8000/play/a02v/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://45.5.151.160:8000/play/a05u/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://45.186.252.17:8000/play/a04l
-#EXTINF:-1,ESPN 3 HD
-http://45.186.252.17:8000/play/a022
-#EXTINF:-1,ESPN Extra HD
-http://45.186.252.17:8000/play/a03v
-#EXTINF:-1,ESPN Premium HD
-http://45.186.252.17:8000/play/a07t
-#EXTINF:-1,ESPN
-http://45.179.194.114:48003/play/a00u/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.179.194.114:48003/play/a02u/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://45.179.194.114:48003/play/a00t/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.179.194.114:48003/play/a00h/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.179.194.114:48003/play/a0x9/index.m3u8
-#EXTINF:-1,ESPN CO
-http://45.179.194.114:48003/play/a023/index.m3u8
 #EXTINF:-1,3ABN LATINO
 http://45.166.92.22:58001/play/a04z/index.m3u8
 #EXTINF:-1,A&E HD
@@ -151,6 +125,14 @@ http://190.26.217.123:8000/play/a140/index.m3u8
 http://190.26.217.123:8000/play/a131/index.m3u8
 #EXTINF:-1,ESPN HD
 http://190.26.217.123:8000/play/a146/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://45.179.194.114:48003/play/a00t/index.m3u8
+#EXTINF:-1,ESPN 3
+http://45.179.194.114:48003/play/a00h/index.m3u8
+#EXTINF:-1,ESPN 4
+http://45.179.194.114:48003/play/a0x9/index.m3u8
+#EXTINF:-1,ESPN CO
+http://45.179.194.114:48003/play/a023/index.m3u8
 #EXTINF:-1,EWTN
 http://45.166.92.22:58001/play/a050/index.m3u8
 #EXTINF:-1,Europa HD
